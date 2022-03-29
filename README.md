@@ -1,0 +1,1 @@
+#  Projeto feito em equipe  com Felipe Aguiar  e  Digital Inovation  no Qual foi  Proposta  a idéia de  Recriar  um  site  Clone  da Netfflix.Feita com as seguintes linguagens de programaçâo HTML5 e CSS3 
