@@ -1,1 +1,11 @@
-#  Projeto feito em equipe  com Felipe Aguiar  e  Digital Inovation  no Qual foi  Proposta  a idéia de  Recriar  um  site  Clone  da Netfflix.Feita com as seguintes linguagens de programaçâo HTML5 e CSS3 
+#   SITE CLONE  NETFLIX 
+
+Projeto desenvolvido  no Bootcamp  HTML WEB DEVELOPER, da Digital Innovation One.
+
+
+### Objetivo
+
+Aprender  como estruturar um layout , técnicas de CSS3 com containers e variáveis, como posicionar  elementos  com
+Flexbox  e como plugins JQuery.
+
+####  Captura de tela do  projeto concluí
